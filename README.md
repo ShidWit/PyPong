@@ -14,7 +14,6 @@ You can download the latest release of PyPong from the [Releases](https://github
 - Player vs. AI mode
 - Smooth ball movement and collision detection
 - Score tracking for both players
-- Sound effects for ball collisions and scoring
 
 ## Getting Started
 
